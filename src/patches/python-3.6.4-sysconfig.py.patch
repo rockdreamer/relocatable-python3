@@ -1,0 +1,14 @@
+diff --git i/Lib/sysconfig.py w/Lib/sysconfig.py
+index dbf7767..c2ce0af 100644
+--- i/Lib/sysconfig.py
++++ w/Lib/sysconfig.py
+@@ -420,7 +420,9 @@
+     name = _get_sysconfigdata_name()
+     _temp = __import__(name, globals(), locals(), ['build_time_vars'], 0)
+     build_time_vars = _temp.build_time_vars
++    from distutils.sysconfig import _fix_prefix
+     vars.update(build_time_vars)
++    _fix_prefix(vars)
+
+ def _init_non_posix(vars):
+     """Initialize the module as appropriate for NT"""
