@@ -22,6 +22,7 @@ libiconv-1.11.1.tar.gz                  http://ftp.gnu.org/pub/gnu/libiconv/libi
 libiconv-1.13.1.tar.gz                  http://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.13.1.tar.gz
 libiconv-1.9.1.tar.gz                   http://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.9.1.tar.gz
 libtasn1-3.4.tar.gz                     http://ftp.gnu.org/gnu/libtasn1/libtasn1-3.4.tar.gz
+libvirt-3.9.0.tar.xz                    https://libvirt.org/sources/libvirt-3.9.0.tar.xz
 libxml2-2.7.8.tar.gz                    http://xmlsoft.org/sources/libxml2-2.7.8.tar.gz
 libxslt-1.1.26.tar.gz                   http://xmlsoft.org/sources/libxslt-1.1.26.tar.gz
 ncurses-5.9.tar.gz                      http://ftp.gnu.org/pub/gnu/ncurses/ncurses-5.9.tar.gz
