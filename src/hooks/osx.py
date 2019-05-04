@@ -1,4 +1,5 @@
 __import__("pkg_resources").declare_namespace(__name__)
+from __future__ import print_function
 
 def _catch_and_print(func, *args, **kwargs):
     try:

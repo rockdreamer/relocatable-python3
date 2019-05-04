@@ -1,5 +1,5 @@
 __import__("pkg_resources").declare_namespace(__name__)
-
+from __future__ import print_function
 from subprocess import Popen
 from platform import system
 from infi.execute import execute_assert_success
@@ -43,7 +43,7 @@ def build():
             else:
                 buildout_file = 'buildout-build-ubuntu.cfg'
         if dist_name in ['redhat', 'centos']:
-            arch = execute_assert_success(["uname", "-i"]).get_stdout().lower()
+            arch = str(execute_assert_success(["uname", "-i"]).get_stdout().lower())
             if 'ppc64le' in arch:
                 buildout_file = 'buildout-build-redhat-ppc64le.cfg'
             elif 'ppc64' in arch:
