@@ -2,7 +2,6 @@ bzip2-1.0.6.tar.gz                      http://anduin.linuxfromscratch.org/LFS/b
 cyrus-sasl-2.1.23.tar.gz                https://ftp.osuosl.org/pub/blfs/conglomeration/cyrus-sasl/cyrus-sasl-2.1.23.tar.gz
 db-5.1.25.tar.gz                        https://src.fedoraproject.org/lookaside/pkgs/libdb/db-5.1.25.tar.gz/06656429bfc1abb6c0498eaeff70cd04/db-5.1.25.tar.gz
 db-5.3.21.tar.gz                        https://src.fedoraproject.org/lookaside/pkgs/libdb/db-5.3.21.tar.gz/3fda0b004acdaa6fa350bfc41a3b95ca/db-5.3.21.tar.gz
-device-mapper-1.02.28.tar.gz            ftp://sources.redhat.com/pub/dm/device-mapper.1.02.28.tgz
 gdbm-1.8.3.tar.gz                       http://ftp.gnu.org/pub/gnu/gdbm/gdbm-1.8.3.tar.gz
 gettext-0.12.1.tar.gz                   http://ftp.gnu.org/pub/gnu/gettext/gettext-0.12.1.tar.gz
 gettext-0.14.6.tar.gz                   http://ftp.gnu.org/pub/gnu/gettext/gettext-0.14.6.tar.gz
@@ -22,7 +21,6 @@ libiconv-1.11.1.tar.gz                  http://ftp.gnu.org/pub/gnu/libiconv/libi
 libiconv-1.13.1.tar.gz                  http://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.13.1.tar.gz
 libiconv-1.9.1.tar.gz                   http://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.9.1.tar.gz
 libtasn1-3.4.tar.gz                     http://ftp.gnu.org/gnu/libtasn1/libtasn1-3.4.tar.gz
-libvirt-3.9.0.tar.xz                    https://libvirt.org/sources/libvirt-3.9.0.tar.xz
 libxml2-2.7.8.tar.gz                    http://xmlsoft.org/sources/libxml2-2.7.8.tar.gz
 libxslt-1.1.26.tar.gz                   http://xmlsoft.org/sources/libxslt-1.1.26.tar.gz
 ncurses-5.9.tar.gz                      http://ftp.gnu.org/pub/gnu/ncurses/ncurses-5.9.tar.gz
