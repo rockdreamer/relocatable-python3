@@ -2,6 +2,7 @@ bzip2-1.0.6.tar.gz                      http://anduin.linuxfromscratch.org/LFS/b
 cyrus-sasl-2.1.23.tar.gz                https://ftp.osuosl.org/pub/blfs/conglomeration/cyrus-sasl/cyrus-sasl-2.1.23.tar.gz
 db-5.1.25.tar.gz                        https://src.fedoraproject.org/lookaside/pkgs/libdb/db-5.1.25.tar.gz/06656429bfc1abb6c0498eaeff70cd04/db-5.1.25.tar.gz
 db-5.3.21.tar.gz                        https://src.fedoraproject.org/lookaside/pkgs/libdb/db-5.3.21.tar.gz/3fda0b004acdaa6fa350bfc41a3b95ca/db-5.3.21.tar.gz
+device-mapper-1.02.28.tar.gz            ftp://sources.redhat.com/pub/dm/device-mapper.1.02.28.tgz
 gdbm-1.8.3.tar.gz                       http://ftp.gnu.org/pub/gnu/gdbm/gdbm-1.8.3.tar.gz
 gettext-0.12.1.tar.gz                   http://ftp.gnu.org/pub/gnu/gettext/gettext-0.12.1.tar.gz
 gettext-0.14.6.tar.gz                   http://ftp.gnu.org/pub/gnu/gettext/gettext-0.14.6.tar.gz
@@ -9,7 +10,7 @@ gettext-0.18.1.1.tar.gz                 http://ftp.gnu.org/pub/gnu/gettext/gette
 gmp-6.1.0.tar.bz2                       http://ftp.gnu.org/pub/gnu/gmp/gmp-6.1.0.tar.bz2
 gnutls-2.12.3.tar.bz2                   http://ftp.gnu.org/gnu/gnutls/gnutls-2.12.3.tar.bz2
 gnutls-3.2.12.1.tar.bz2                 http://repository.timesys.com/buildsources/g/gnutls/gnutls-3.2.12.1/gnutls-3.2.12.1.tar.bz2
-graphviz-2.30.1.tar.gz                  http://www.graphviz.org/pub/graphviz/stable/SOURCES/graphviz-2.30.1.tar.gz
+graphviz-2.30.1.tar.gz                  https://src.fedoraproject.org/lookaside/pkgs/rpms/graphviz/graphviz-2.30.1.tar.gz/8130785a8f1fb8a57f6b839b617e85fa/graphviz-2.30.1.tar.gz
 libev-4.15.tar.gz                       http://dist.schmorp.de/libev/Attic/libev-4.15.tar.gz
 libevent-1.4.13-stable.tar.gz           https://github.com/downloads/libevent/libevent/libevent-1.4.13-stable.tar.gz
 libevent-2.0.17-stable.tar.gz           https://github.com/downloads/libevent/libevent/libevent-2.0.17-stable.tar.gz
@@ -32,8 +33,8 @@ openssh-5.8p1.tar.gz                    http://ftp.openbsd.org/pub/OpenBSD/OpenS
 openssl-1.0.1j.tar.gz                   https://www.openssl.org/source/openssl-1.0.1j.tar.gz
 openssl-1.0.2h.tar.gz                   https://www.openssl.org/source/openssl-1.0.2h.tar.gz
 Python-3.6.4.tgz                        https://www.python.org/ftp/python/3.6.4/Python-3.6.4.tgz
-readline-6.3.tar.gz                     https://ftp.gnu.org/gnu/readline/readline-6.2.tar.gz
-sqlite-autoconf-3070602.tar.gz          ftp://ftp.funet.fi/ftp/pub/NetBSD/packages/distfiles/sqlite-autoconf-3070602.tar.gz
+readline-6.3.tar.gz                     https://ftp.gnu.org/gnu/readline/readline-6.3.tar.gz
+sqlite-autoconf-3070602.tar.gz          https://www.sqlite.org/sqlite-autoconf-3070602.tar.gz
 tcl8.5.15-src.tar.gz                    http://prdownloads.sourceforge.net/tcl/tcl8.5.15-src.tar.gz
 tk8.5.15-src.tar.gz                     http://prdownloads.sourceforge.net/tcl/tk8.5.15-src.tar.gz
 xz-5.0.5-windows.zip                    http://tukaani.org/xz/xz-5.0.5-windows.zip
