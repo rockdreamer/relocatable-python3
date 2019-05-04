@@ -159,6 +159,8 @@ def clean():
 def _catch_and_print(func, *args, **kwargs):
     try:
         func(*args, **kwargs)
-    except (OSError, IOError), e:
+    except OSError as e:
+        print(e)
+    except IOError as e:
         print(e)
 
